@@ -1,0 +1,5 @@
+Name,PrimarySmtp,Aliases,Folders,Description,Department,HideFromGAL,GroupDescription
+HR Shared,hr-shared@example.com,hr@example.com;hr-team@example.com,Onboarding;Policies,Human Resources shared mailbox,Human Resources,false,HR Shared Mailbox Access Groups
+Finance Shared,finance-shared@example.com,finance@example.com;billing@example.com,Invoices;Reports,Finance shared mailbox,Finance,false,Finance Shared Mailbox Access Groups
+IT Helpdesk,it-helpdesk@example.com,helpdesk@example.com;support@example.com,Tickets;Escalations,IT support mailbox,Information Technology,false,IT Helpdesk Access Groups
+Marketing Shared,marketing-shared@example.com,marketing@example.com;ads@example.com,Campaigns;Assets,Marketing shared mailbox,Marketing,false,Marketing Shared Mailbox Access Groups

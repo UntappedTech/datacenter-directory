@@ -1,0 +1,9 @@
+Group,Members
+SG_HR Shared_FullAccess,alice@example.com;bob@example.com
+SG_HR Shared_SendAs,bob@example.com
+SG_Finance Shared_FullAccess,charlie@example.com
+SG_Finance Shared_SendAs,charlie@example.com;dana@example.com
+SG_IT Helpdesk_FullAccess,tech1@example.com;tech2@example.com
+SG_IT Helpdesk_SendAs,tech2@example.com
+SG_Marketing Shared_FullAccess,marketer1@example.com
+SG_Marketing Shared_SendAs,
